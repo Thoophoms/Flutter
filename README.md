@@ -10,5 +10,33 @@ Flutter is a cross-platform UI software development toolkit created by Google to
 4. **Native Performance:** Flutter applications are compiled directly to native ARM (Advanced RISC Machines) code to help achieve high performance on both iOS and Android.
 5. **Strong Community Support:** Being an open-source UI toolkit, Flutter has a growing and active community that provides a wealth of resources, plugins, and packages.
 
+## Installation
+
+### What you need:
+1. **Android Apps**
+   - Mac or PC
+   - Android Studio
+   - Android Emulator or physical device
+2. **IOS Apps**
+   - Mac
+   - Android Studio
+   - IOS Simulator or physical device
+
+### Window Setup
+1. **Install the Flutter SDK**
+   -  [Download the Flutter SDK for Window](https://docs.flutter.dev/get-started/install/windows)
+2. **Install Android Studio**
+3. **Install the Android Emulator**
 
 
+### Mac Setup
+1. **Install the Flutter SDK**
+   - [Download the Flutter SDK for Mac](https://docs.flutter.dev/get-started/install/macos)
+2. **Install Android Studio**
+3. **Install the Android Emulator**
+4. **Install Xcode and command-line tools**
+5. **Test the iOS Simulator**
+
+### Linux Setup
+1. **Install the Flutter SDK**
+   - [Download the Flutter SDK for Linux](https://docs.flutter.dev/get-started/install/linux)
