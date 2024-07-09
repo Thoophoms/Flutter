@@ -55,6 +55,19 @@ Flutter is a cross-platform UI software development toolkit created by Google to
        - Once the Android has been restarted, you will see the button `Start a new Flutter project` on the welcome page on the application which means that the installation is successful
 
 3. **Install the Android Emulator**
+   - Click on `New Flutter Project`
+   - On Generator tab, choose `Flutter`
+   - On "Flutter SDK path": put the path for flutter that you saved
+     - Example:
+     - `C:\src\flutter\flutter`
+   - Enter the project name and click on `create`
+   - **To test the program:**
+     - On the left side of your project screen, there is an icon with the phone and Android picture, the icon called `Device Manager`
+     - Click on `Device Manager` then click on `+` sign and `create Virtual Device`
+     - Click on the "Legacy tab" then choose either `Nexus 6` or `Nexus 6P` then, `Next` and download the necessary system image that it needs to be downloaded
+       - In this case, I chose `Nexus 6` and download `Pie`
+       - Once the download is finished, click on the "Emulated Performance", on "Graphics" dropdown: choose `Hardware - GLES 2.0`
+
 
 
 ### Mac Setup
@@ -66,5 +79,4 @@ Flutter is a cross-platform UI software development toolkit created by Google to
 5. **Test the iOS Simulator**
 
 ### Linux Setup
-1. **Install the Flutter SDK**
-   - [Download the Flutter SDK for Linux](https://docs.flutter.dev/get-started/install/linux)
+    - [Linux Setup Guide](Linux_Setup.md)
