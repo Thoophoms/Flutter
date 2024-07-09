@@ -79,4 +79,4 @@ Flutter is a cross-platform UI software development toolkit created by Google to
 5. **Test the iOS Simulator**
 
 ### Linux Setup
-    - [Linux Setup Guide](Linux_Setup.md)
+[Linux Setup Guide](Linux_Setup.md)
