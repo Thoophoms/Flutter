@@ -25,14 +25,8 @@ Flutter is a cross-platform UI software development toolkit created by Google to
 ### Window Setup
 [Window Setup Guide](Window_Setup.md)
 
-
 ### Mac Setup
-1. **Install the Flutter SDK**
-   - [Download the Flutter SDK for Mac](https://docs.flutter.dev/get-started/install/macos)
-2. **Install Android Studio**
-3. **Install the Android Emulator**
-4. **Install Xcode and command-line tools**
-5. **Test the iOS Simulator**
+[Mac Setup Guide](Mac_setup.md)
 
 ### Linux Setup
 [Linux Setup Guide](Linux_Setup.md)
