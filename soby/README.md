@@ -1,6 +1,6 @@
 # soby
 
-A new Flutter project.
+This is the challenge app that I created without any instructions by the instructor. Basically this app is just a Flutter project where I created an application that display the app bar and single image on the body. I also learned to created the application icons for both iPhone and Android.
 
 ## Getting Started
 
