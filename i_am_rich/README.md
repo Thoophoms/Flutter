@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+This is my first Flutter project where I created an application that display the app bar and single image on the body. I also learned to created the application icons for both iPhone and Android.
 
 ## Getting Started
 
@@ -15,5 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## In this Project
-- I created the app icons for both iOS and Android
+
